@@ -10,3 +10,4 @@ this script set permission to the file hello
 set mode to the file
 mirror session
 permission for all
+make a directoruy with 751
