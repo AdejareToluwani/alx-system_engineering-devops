@@ -4,3 +4,4 @@ group section
 command to change owner
 Create an empty file h..
 script that add execute permmision to the owner of the file
+permission to the owner and the group owner
