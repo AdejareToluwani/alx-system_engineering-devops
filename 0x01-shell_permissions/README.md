@@ -7,3 +7,4 @@ script that add execute permmision to the owner of the file
 permission to the owner and the group owner
 permission to the owner,groupowner and all users
 this script set permission to the file hello
+set mode to the file
