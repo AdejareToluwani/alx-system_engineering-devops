@@ -13,3 +13,4 @@ permission for all
 make a directoruy with 751
 Change the owner 
 Change group owner to staff
+symbolic links via 101
