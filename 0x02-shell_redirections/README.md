@@ -5,3 +5,4 @@ Display more files
 Display last 10 lines
 first lines
 Display third line
+file
