@@ -9,3 +9,4 @@ count that word
 line containing pattern root
 display all lines
 letter only
+A-z
