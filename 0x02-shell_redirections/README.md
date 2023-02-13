@@ -4,3 +4,4 @@ no more javascript
 count directories
 whats's new
 unique
+DIspllay line containing a pattern
