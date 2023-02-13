@@ -11,3 +11,4 @@ display all lines
 letter only
 A-z
 remove Cc
+reverse
