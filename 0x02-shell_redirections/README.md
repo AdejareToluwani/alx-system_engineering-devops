@@ -6,3 +6,4 @@ whats's new
 unique
 DIspllay line containing a pattern
 count that word
+line containing pattern root
