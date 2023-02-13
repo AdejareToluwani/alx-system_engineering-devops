@@ -3,3 +3,4 @@ Duplicate last line
 no more javascript
 count directories
 whats's new
+unique
